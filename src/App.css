@@ -48,7 +48,7 @@ nav {
   text-decoration: none;
   color: black;
   font-style: normal;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 350;
   font-family: poppins;
 }
@@ -59,7 +59,7 @@ nav {
 
 .a-Href::after {
   content: '';
-  height: 3px;
+  height: 4px;
   width: 0;
   background: #4200ff;
   position: absolute;
@@ -79,8 +79,8 @@ nav {
   background-color: #FFFFFF;
   color: #4200ff;
   outline: none;
-  height: 40px;
-  width: 138px;
+  height: 45px;
+  width: 140px;
   margin-left: 20px;
   border-radius: 13px;
   border-color: #4200ff;
